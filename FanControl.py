@@ -1,2 +1,2 @@
-def test():
-    print(0)
+def write(speed):
+    return True
